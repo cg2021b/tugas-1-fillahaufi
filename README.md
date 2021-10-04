@@ -1,6 +1,7 @@
 # tugas-1-fillahaufi
  
 Nama benda : gitar
+![final](/images/loop.gif)
 
 ## Depan atas
 ![depanAtas](/images/depanAtas.jpeg)
